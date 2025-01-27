@@ -8,6 +8,10 @@ gallery: true
 
 Prototype for Encoded Audio Player. Developed alongside the _[Using Embodiment and Audio Narrative to Present Historical Research](https://aweymo-ui.github.io/embody_audio/)_ workshop for practical applications for graduate, undergraduate and independent research projects in environmental history, archaeology, geology, humanities, journalism and interdisciplinary science to showcase longform audio narratives, presentations and oral history material. _Andrew Weymouth, Winter 2025._
 
+<br>
+
+{% include alert.html text="Note: Since the initial design, removing the 360 photograph element will streamline this feature and avoid niche hardware requirements." color="light" align="right" %}
+
 
 <br>
 
